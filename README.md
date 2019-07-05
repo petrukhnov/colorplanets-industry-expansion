@@ -78,11 +78,13 @@ These resources are not available for player directly, but could be converted to
 ### Player could scan for veins/lakes
 
 Similar to treasures. Will be visible for 6-48 hours, and then disappear permanently (if not captured). Other player also see them.
+
 If player build structure and corresponding facility, vein/lake  become permanent for that team (until structure is demolished).
 
 ### Vein
 
 Curved line about 50m wide and 1km long. Have limited number of random raw resource. 
+
 Player have to build and demolish many structures to extract all of it. One structure covers ~100x100m area.
 
 ### Lake
@@ -92,7 +94,9 @@ Player have to build and demolish many structures to extract all of it. One stru
 ## Outer Pipes
 
 Besides structures, player could build outer pipes, that transfer multiple resources, and basically connect structures.
+
 To build pipe. Go to structure 1 location, in structure menu, select "build outer pipe". Travel to other structure and "complete pipe connection".
+
 Player have limit of 1 hour to construct pipe. Pipe cost is based on distance between structures.
 
 
@@ -102,6 +106,7 @@ Player have limit of 1 hour to construct pipe. Pipe cost is based on distance be
 ## Research
 
 Research requires  purified resources (all colours) to start research.
+
 Every depleted transmitter (year team) contribute its level to research progress. Works within 5km from research points collector.
 
 
@@ -123,11 +128,15 @@ Just ideas what could be researched. No actual tech tree yet.
 And some outcome suggestions.
 
 Spend 1000 of each resource to structures and facilities, will get 1 of each resource per day + very slow research.
+
 Spend 1M of each resource to get 10K/day OR fast research OR 1K/day+average research speed.
 
 ## Random thoughts
   
 Maybe possible to create specific transmitter parts from lowest tier (but very expensive).
+
 Maybe possible to get some one-time tools (scanners, treasure finders, etc) also expensive.
+
 Maybe possible to make "automatic transmitter deployer".
+
 Energy as additional resource for structures to operate, and wires to connect structures.
